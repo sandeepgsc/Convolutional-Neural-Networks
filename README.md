@@ -1,1 +1,1 @@
-# CNN
+# soil-detection-using-CNN
